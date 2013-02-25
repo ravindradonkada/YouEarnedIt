@@ -9,9 +9,7 @@
 
 namespace GitPrj
 {
-
-
-    public partial class About
+     public partial class About
     {
     }
 }
