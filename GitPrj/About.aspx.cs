@@ -12,6 +12,7 @@ namespace GitPrj
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("HI");
+            Response.Write("Hello");
         }
     }
 }
